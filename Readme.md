@@ -13,5 +13,6 @@
 
 contributor test - 2
 contributor test - 3
+contributor test - 4
 
 git contributor
